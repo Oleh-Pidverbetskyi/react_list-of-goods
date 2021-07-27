@@ -1,0 +1,1 @@
+{"version":3,"sources":["ProductList.css","Button.css"],"names":[],"mappings":"AAAA,aACE,eACF,CCFA,KACE,qBAAsB,CACtB,iBAAkB,CAClB,kBACF","file":"main.275b2b3b.chunk.css","sourcesContent":[".Productlist {\n  list-style: none;\n}\n",".btn {\n  background-color: gold;\n  margin-right: 10px;\n  border-radius: 10px;\n}\n"]}
